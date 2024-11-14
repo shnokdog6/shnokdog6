@@ -52,4 +52,3 @@
 <h2 align="left">My stats:</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shnokdog6&show_icons=true&locale=en&layout=compact" alt="shnokdog6" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=shnokdog6&show_icons=true&locale=en" alt="shnokdog6" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shnokdog6&" alt="shnokdog6" /></p>
