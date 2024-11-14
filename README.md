@@ -1,7 +1,3 @@
-<h1 style="text-align: left;">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=04A0F7&background=FFFFFF00&vCenter=true&random=false&width=435&lines=Hi+there!;I'm+Shnokdog;Full-stack+web+developer+from+Russia" alt="Typing SVG" /></a>
-</h1>
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=shnokdog6&label=Profile%20views&color=0e75b6&style=flat" alt="shnokdog6" />
   <a href="https://wakatime.com/@018bdc5e-a798-41d9-ac45-3887c440378b">
