@@ -40,7 +40,9 @@
 <a href="https://nestjs.com/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest">
 </a>
-
+<a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwindcss">
+</a>
 
 <h2 align="left">Socials:</h2>
 <a href="https://t.me/beyondray" target="_blank" style="text-decoration: none;">
