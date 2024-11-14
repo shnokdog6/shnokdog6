@@ -37,6 +37,9 @@
 <a href="https://vuejs.org/" target="_blank" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vue">
 </a>
+<a href="https://nestjs.com/" target="_blank" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="nest">
+</a>
 
 
 <h2 align="left">Socials:</h2>
